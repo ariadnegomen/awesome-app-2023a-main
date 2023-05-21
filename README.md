@@ -1,1 +1,1 @@
-# awesome-app-2023a-main
+# awesome-app-2023a
